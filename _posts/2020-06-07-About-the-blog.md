@@ -7,9 +7,9 @@ tags: [stickingtoit,vision]
 toc: false
 ---
 
-So I have been thinking about what to do with this blog and the steps I need to do to achieve my goals mentioned in the [previous blog] (http://vinodlasrado.me/posts/Goals/). And I have decided to follow the miracle morning.
+So I have been thinking about what to do with this blog and the steps I need to do to achieve my goals mentioned in my [previous blog]({{ "/posts/Goals" | relative_url }}). And I have decided to follow the miracle morning.
 
-Hal Elrod is an American author and has an awesome life story. He got into a horrific accident where he broke almost everything and recovered, ran an ultra marathon. Wrote a book only to have all his money stolen and he then self-published his book the miracle morning. While the book does a great job inspiring, I think everything in the book mainly builds up to the S.A.V.E.R.S. routine which you can see [here] (https://lifehacker.com/start-your-day-off-right-with-the-savers-morning-routin-1716241117)
+Hal Elrod is an American author and has an awesome life story. He got into a horrific accident where he broke almost everything and recovered, ran an ultra marathon. Wrote a book only to have all his money stolen and he then self-published his book the miracle morning. While the book does a great job inspiring, I think everything in the book mainly builds up to the S.A.V.E.R.S. routine which you can see [here]({{ "https://lifehacker.com/start-your-day-off-right-with-the-savers-morning-routin-1716241117"}})
 
 Now what I am going to do with my blog. I don’t have a happening life. I am a lazy bored software engineer, who wants to improve my life. So I was thinking to do three things.
 
