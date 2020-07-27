@@ -16,7 +16,7 @@ description: >-                        # used by seo meta and the atom feed
   A blog
 
 # Replace wth the website url, e.g. 'https://username.github.io'
-url: 'https://vinodlasrado.me'
+url: 'https://blog.vinodlasrado.me'
 
 author: Vinod Lasrado                  # change to your full name
 
@@ -35,6 +35,7 @@ social:
     # The first element serves as the copyright owner's link
       - https://github.com/lasradoVinod       # change to your github homepage
       - https://twitter.com/LasradoVinod     # change to your twitter homepage
+      - https://www.instagram.com/sticking.to.it.vinod
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
       - https://www.linkedin.com/in/vinodlasrado
